@@ -1,5 +1,3 @@
-Claro, aqui está uma versão formatada da explicação que você pode adicionar ao README do seu projeto:
-
 ---
 
 # Projeto Learn_Statistic
